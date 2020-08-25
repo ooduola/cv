@@ -113,7 +113,7 @@ Responsibilities :
 **[BUNTU](www.lovebuntu.com), Founder**
 _(2016 - 2020)_
 
-_BUNTU is an e-commerce brand which sells premium reusable water bottles.
+_BUNTU is an e-commerce brand which sells premium reusable water bottles._
 
 Key achievements:
 
