@@ -1,5 +1,13 @@
 <h1 align="center" >Olatunji Oduola</h1>
 
+<div align='center'>
+
+[![LinkedIn Profile]](https://www.linkedin.com/in/olatunji-oduola-b8433277/)
+[![Email]](mailto:ola.oduola@gmail.com)
+[![GitHub Profile]](https://github.com/ooduola)
+
+</div>
+
 <p>I am a Full Stack Developer who enjoys getting to the root cause of problems and helping my team to succeed. I am natuarally inquisitive and analytical in my thinking and hold a BEng(Hons) in Chemical Engineering from the University of Birmingham.
 
 I am looking for opportunities where I can work with ambitious people, whilst developing my skills and solving real-world problems. I continually seek opportunities to learn and create a good experience for others.</p>
@@ -156,3 +164,8 @@ _(2002 - 2007)_ - GCSE: 6 A's and 5 B's
 - Africa’s tech, startup and business ecosystem
 - Building inclusive and diverse work environments
 - Travelling
+
+
+[linkedin profile]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
+[email]: https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
+[github profile]: https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white
