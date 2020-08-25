@@ -4,8 +4,6 @@ I am a Full Stack Developer who enjoys getting to the root cause of problems and
 
 I am looking for opportunities where I can work with ambitious people, whilst developing my skills and solving real-world problems. I continually seek opportunities to learn and create a good experience for others.
 
----
-
 <h2 align="center" >Projects</h2>
 
 Here are some of the projects I've recently worked on. All developed with Test Driven Development, Object Oriented Principles, and XP/Agile methodology.
@@ -15,8 +13,6 @@ Here are some of the projects I've recently worked on. All developed with Test D
 | **Nah'Amazon**     | Group project. A buyers and sellers marketplace                             | MongoDB, Express, React, Node, | Github           |
 | **Bank Tech Test** | A CLI program emulating a bank account, showcasing test driven development. | Ruby                           | Github           |
 | **Acebook**        | A social media photo sharing web-app                                        | Ruby on Rails, HTML CSS        | Github           |
-
----
 
 <h2 align="center" >Tech Skills</h2>
 
@@ -88,8 +84,6 @@ Here are some of the projects I've recently worked on. All developed with Test D
   </tbody>
 </table>
 
----
-
 <h2 align="center" >Work Experience</h2>
 
 **[MOO](www.moo.com), Lead Technical Recruiter**
@@ -132,8 +126,6 @@ _Progressive is a world-leading staffing company committed to connecting the rig
 
 - Responsible for international business development and recruitment within the Oil & Gas sector
 
----
-
 <h2 align="center" >Soft Skills</h2>
 
 ### Keen Learner
@@ -141,8 +133,6 @@ _Progressive is a world-leading staffing company committed to connecting the rig
 ### Communication
 
 ### Effective Teamwork
-
----
 
 <h2 align="center" >Education</h2>
 
@@ -171,8 +161,6 @@ _(2007 - 2009)_
 _(2002 - 2007)_
 
 - GCSE: 6 A's and 5 B's
-
----
 
 <h2 align="center" >Interest</h2>
 
