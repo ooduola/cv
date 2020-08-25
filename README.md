@@ -13,7 +13,7 @@
 #### Navigation
 
 
-[Projects](#projects) | [Work Experience](#experience) | [Skills](#skills) | [Education](#education) | [Interest](#interest) | 
+[Projects](#projects) | [Work Experience](#experience) | [Skills](#skills) | [Education](#education) | [Interest](#interest)
 
 </div>
 
@@ -27,9 +27,8 @@ I am looking for opportunities where I can work with ambitious people, whilst de
 
 | Project/GitHub     | Details                                                                     | Tech                           | Additional Links |
 | ------------------ | --------------------------------------------------------------------------- | ------------------------------ | ---------------- |
-| **Nah'Amazon**     | Group project. A buyers and sellers marketplace                             | MongoDB, Express, React, Node, | Github           |
-| **Bank Tech Test** | A CLI program emulating a bank account, showcasing test driven development. | Ruby                           | Github           |
-| **Acebook**        | A social media photo sharing web-app                                        | Ruby on Rails, HTML CSS        | Github           |
+| **Nah'Amazon**     | Group project. A buyers and sellers marketplace                             | MongoDB, Express, React, Node, | [Github](https://github.com/ooduola/final_project)|
+| **Bank Tech Test** | A command line program emulating a bank account, showcasing test driven development. | Ruby                  | [Github](https://github.com/ooduola/bank_tech_test)|
 
 ## Techecnical Knowledge
 
