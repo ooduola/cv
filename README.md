@@ -153,13 +153,16 @@ A 16-week intensive development bootcamp
 - Collaborate on GitHub projects with continuous integration and automated deployment
 
 **University of Birmingham**
-_(2009 - 2012)_ - BEng Hons, Chemical Engineering
+_(2009 - 2012)_ 
+- BEng Hons, Chemical Engineering
 
 **Saint Francis Xavier Sixth Form College**
-_(2007 - 2009)_ - A Levels: Maths(A), Chemistry(A), Physics(C)
+_(2007 - 2009)_ 
+- A Levels: Maths(A), Chemistry(A), Physics(C)
 
 **Bacons College**
-_(2002 - 2007)_ - GCSE: 6 A's and 5 B's
+_(2002 - 2007)_ 
+- GCSE: 6 A's and 5 B's
 
 ## Interest
 
