@@ -138,11 +138,18 @@ _(June 2013 - June 2016)_
 
 ## Skills
 
-### Keen Learner
+### Fast Learner
+- At Makers we were continually pushed to grow and develop our skills on a daily basis. After spending most of the course learning Ruby, I was quickly able to pick up Javascript and start implementing it to build simple web apps. For our final group project, we took this a step further and built our project using the MERN stack (Mongodb, Express, React and Node) resulting in a  marketplace connecting sellers and buyer. Having not being taught any of these technologies during the course, it was a testament to how fast I can adapt and learn new technologies in a collaborative environment.
+
+### Problem Solver
+- Running an e-commerce business you are constantly faced with different challenges ranging from importing products from China to fixing bugs on your website. During this time I greatly improved my problem-solving mindset and learnt to break down obstacles into small achievable actions. In addition to this, I always view problems as an opportunity to grow and therefore look positively towards any problem I encounter. 
 
 ### Communication
+ - As a Recruiter, one of my keys to my success was my ability to clearly articulate the needs and wants of others. It's a skill I have refined and developed over time and the foundation of this stems from active listening. Being able to match candidates to the right opportunities is not only about having the right skills but making sure the values and the goals of the individuals involved are aligned. I put much of this down to my ability to effectively communicate and probe when needed to get the information which will help me in my role. 
+ 
+ ### Collaborative
+ - At Makers, I took the opportunity to mentor 2 students from the July 2020 cohort, as they embarked on their journey into software development. I organised weekly catch-ups and listen to their development and giving guidance on blockers where possible. I strongly believe in knowledge sharing and being able to reflect with others helps all people involved to grow and gain a stronger perspective. 
 
-### Effective Teamwork
 
 <h2>Education</h2>
 
