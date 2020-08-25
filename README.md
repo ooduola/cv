@@ -13,7 +13,7 @@
 #### Navigation
 
 
-[Projects](#projects) | [Tech Skills](#tech) | [Work Experience](#experience) | [Skills](#skills) | [Education](#education) | [Interest](#interest) | 
+[Projects](#projects) | [Work Experience](#experience) | [Skills](#skills) | [Education](#education) | [Interest](#interest) | 
 
 </div>
 
@@ -31,7 +31,7 @@ I am looking for opportunities where I can work with ambitious people, whilst de
 | **Bank Tech Test** | A CLI program emulating a bank account, showcasing test driven development. | Ruby                           | Github           |
 | **Acebook**        | A social media photo sharing web-app                                        | Ruby on Rails, HTML CSS        | Github           |
 
-## Tech
+## Techecnical Knowledge
 
 <table>
   <thead>
