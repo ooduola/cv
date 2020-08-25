@@ -1,12 +1,12 @@
 <h1 align="center" >Olatunji Oduola</h1>
 
-I am a Full Stack Developer who enjoys getting to the root cause of problems and helping my team to succeed. I am natuarally inquisitive and analytical in my thinking and hold a BEng(Hons) in Chemical Engineering from the University of Birmingham.
+<p>I am a Full Stack Developer who enjoys getting to the root cause of problems and helping my team to succeed. I am natuarally inquisitive and analytical in my thinking and hold a BEng(Hons) in Chemical Engineering from the University of Birmingham.
 
-I am looking for opportunities where I can work with ambitious people, whilst developing my skills and solving real-world problems. I continually seek opportunities to learn and create a good experience for others.
+I am looking for opportunities where I can work with ambitious people, whilst developing my skills and solving real-world problems. I continually seek opportunities to learn and create a good experience for others.</p>
 
-<h2 align="center" >Projects</h2>
+<h2>Projects</h2>
 
-Here are some of the projects I've recently worked on. All developed with Test Driven Development, Object Oriented Principles, and XP/Agile methodology.
+<p>Here are some of the projects I've recently worked on. All developed with Test Driven Development, Object Oriented Principles, and XP/Agile methodology.</p>
 
 | Project/GitHub     | Details                                                                     | Tech                           | Additional Links |
 | ------------------ | --------------------------------------------------------------------------- | ------------------------------ | ---------------- |
@@ -14,7 +14,7 @@ Here are some of the projects I've recently worked on. All developed with Test D
 | **Bank Tech Test** | A CLI program emulating a bank account, showcasing test driven development. | Ruby                           | Github           |
 | **Acebook**        | A social media photo sharing web-app                                        | Ruby on Rails, HTML CSS        | Github           |
 
-<h2 align="center" >Tech Skills</h2>
+<h2>Tech Skills</h2>
 
 <table>
   <thead>
@@ -84,12 +84,10 @@ Here are some of the projects I've recently worked on. All developed with Test D
   </tbody>
 </table>
 
-<h2 align="center" >Work Experience</h2>
+<h2>Work Experience</h2>
 
 **[MOO](www.moo.com), Lead Technical Recruiter**
 _(July 2017 - May 2020)_
-
-_MOO is an online print and design company that is passionate about great design and the difference it can make to our customers and the world._
 
 Responsibilities :
 
@@ -115,18 +113,14 @@ Key achievements:
 **Equal Experts, People Scout**
 _(October 2016 - February 2017)_
 
-_Equal Experts provide tailored, end-to-end services in software development and delivery_
-
 - Responsible for recruiting Scala and Java Developers for a high profile public sector client
 
 **Progressive Global Energy, Senior Recruitment Consultant**
 _(June 2013 - June 2016)_
 
-_Progressive is a world-leading staffing company committed to connecting the right talent with the right opportunity in the diversified energy industry._
-
 - Responsible for international business development and recruitment within the Oil & Gas sector
 
-<h2 align="center" >Soft Skills</h2>
+<h2>Soft Skills</h2>
 
 ### Keen Learner
 
@@ -134,7 +128,7 @@ _Progressive is a world-leading staffing company committed to connecting the rig
 
 ### Effective Teamwork
 
-<h2 align="center" >Education</h2>
+<h2>Education</h2>
 
 **Makers Academy**
 _(April 2020 - July 2020)_
@@ -148,21 +142,15 @@ A 16-week intensive development bootcamp
 - Collaborate on GitHub projects with continuous integration and automated deployment
 
 **University of Birmingham**
-_(2009 - 2012)_
-
-- BEng Hons, Chemical Engineering
+_(2009 - 2012)_ - BEng Hons, Chemical Engineering
 
 **Saint Francis Xavier Sixth Form College**
-_(2007 - 2009)_
-
-- A Levels: Maths(A), Chemistry(A), Physics(C)
+_(2007 - 2009)_ - A Levels: Maths(A), Chemistry(A), Physics(C)
 
 **Bacons College**
-_(2002 - 2007)_
+_(2002 - 2007)_ - GCSE: 6 A's and 5 B's
 
-- GCSE: 6 A's and 5 B's
-
-<h2 align="center" >Interest</h2>
+<h2>Interest</h2>
 
 - Entrepreneurship
 - Africa’s tech, startup and business ecosystem
