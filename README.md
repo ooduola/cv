@@ -137,13 +137,13 @@ _(June 2013 - June 2016)_
 
 ## Skills
 
-### Fast Learner
+#### Fast Learner
 - At Makers, we were continually pushed to grow and develop our skills on a daily basis. After spending most of the course learning Ruby, I was quickly able to pick up Javascript and start implementing it to build simple web apps. For our final group project, we took this a step further and built our project using the MERN stack (MongoDB, Express, React and Node) resulting in a  marketplace connecting sellers and buyers. Having not being taught any of these technologies during the course, it was a testament to how fast I can adapt and learn new technologies in a collaborative environment.
 
-### Problem Solver
+#### Problem Solver
 - Running an e-commerce business, you are constantly faced with different challenges ranging from importing products from China to fixing bugs on your website. During this time, I greatly improved my problem-solving mindset and learnt to break down obstacles into small achievable actions. I find this approach to problem solving works best and I have seen the benefits to this approach in software development.
 
-### Communication
+#### Communication
 - Communication is one of the key skills needed for working in Recruitment. Whether speaking to candidates or meeting with hiring managers, being able to effectively communicate is a large part of the role. This experience has allowed to effectively pair program with my peers and work on group projects.
 
 <h2>Education</h2>
