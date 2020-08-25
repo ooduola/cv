@@ -120,7 +120,7 @@ Key achievements:
 - Conception through to a physical product, building a recognizable & coherent brand
 - Ensuring BUNTU’s continued growth, whilst juggling full time employment
 - Developing and implementing an on-going marketing strategy that utilizes social media, PR and an offline presence.
-- Teaching myself UX & UI best practices, whilst building and designing BUNTU website
+- Teaching myself UX & UI best practices, whilst building and designing BUNTU's website
 - Managing a team of 2 volunteers (Photographer & Graphic Designer)
 - Ongoing development and management of retail partnerships across the UK
 - Building and maintaining relationships with media contacts and key influencers within the wellness ecosystem
