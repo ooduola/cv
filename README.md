@@ -6,13 +6,16 @@
 [![Email]](mailto:ola.oduola@gmail.com)
 [![GitHub Profile]](https://github.com/ooduola)
 
+[Projects](#projects) | [Tech Skills](#tech) | [Work Experience](#experience) | [Skills](#skills) | [Education](#education) | 
+
+
 </div>
 
 <p>I am a Full Stack Developer who enjoys getting to the root cause of problems and helping my team to succeed. I am natuarally inquisitive and analytical in my thinking and hold a BEng(Hons) in Chemical Engineering from the University of Birmingham.
 
 I am looking for opportunities where I can work with ambitious people, whilst developing my skills and solving real-world problems. I continually seek opportunities to learn and create a good experience for others.</p>
 
-<h2>Projects</h2>
+## Projects
 
 <p>Here are some of the projects I've recently worked on. All developed with Test Driven Development, Object Oriented Principles, and XP/Agile methodology.</p>
 
@@ -22,7 +25,7 @@ I am looking for opportunities where I can work with ambitious people, whilst de
 | **Bank Tech Test** | A CLI program emulating a bank account, showcasing test driven development. | Ruby                           | Github           |
 | **Acebook**        | A social media photo sharing web-app                                        | Ruby on Rails, HTML CSS        | Github           |
 
-<h2>Tech Skills</h2>
+## Tech
 
 <table>
   <thead>
@@ -92,7 +95,7 @@ I am looking for opportunities where I can work with ambitious people, whilst de
   </tbody>
 </table>
 
-<h2>Work Experience</h2>
+## Experience
 
 **[MOO](www.moo.com), Lead Technical Recruiter**
 _(July 2017 - May 2020)_
@@ -128,7 +131,7 @@ _(June 2013 - June 2016)_
 
 - Responsible for international business development and recruitment within the Oil & Gas sector
 
-<h2>Soft Skills</h2>
+## Skills
 
 ### Keen Learner
 
