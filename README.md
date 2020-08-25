@@ -1,13 +1,17 @@
 <h1 align="center" >Olatunji Oduola</h1>
 
+#### Contact
 <div align='center'>
 
 [![LinkedIn Profile]](https://www.linkedin.com/in/olatunji-oduola-b8433277/)
 [![Email]](mailto:ola.oduola@gmail.com)
 [![GitHub Profile]](https://github.com/ooduola)
+</div>
+
+#### Navigation
+<div align='center'>
 
 [Projects](#projects) | [Tech Skills](#tech) | [Work Experience](#experience) | [Skills](#skills) | [Education](#education) | [Interest](#interest) | 
-
 
 </div>
 
