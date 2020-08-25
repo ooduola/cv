@@ -6,7 +6,7 @@
 [![Email]](mailto:ola.oduola@gmail.com)
 [![GitHub Profile]](https://github.com/ooduola)
 
-[Projects](#projects) | [Tech Skills](#tech) | [Work Experience](#experience) | [Skills](#skills) | [Education](#education) | 
+[Projects](#projects) | [Tech Skills](#tech) | [Work Experience](#experience) | [Skills](#skills) | [Education](#education) | [Interest](#interest) | 
 
 
 </div>
@@ -161,7 +161,7 @@ _(2007 - 2009)_ - A Levels: Maths(A), Chemistry(A), Physics(C)
 **Bacons College**
 _(2002 - 2007)_ - GCSE: 6 A's and 5 B's
 
-<h2>Interest</h2>
+## Interest
 
 - Entrepreneurship
 - Africa’s tech, startup and business ecosystem
