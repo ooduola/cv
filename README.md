@@ -17,9 +17,7 @@
 
 </div>
 
-<p>I am a motivated and ambitious Full Stack Developer who enjoys solving complex problems and helping my team to succeed. I am naturally inquisitive and methodical in my thinking, always aiming to break down problems into small achievable actions. I also hold a BEng(Hons) in Chemical Engineering from the University of Birmingham.
-
-I am looking for opportunities where I can continue to learn, whilst solving real-world problems with a team of ambitious people.</p>
+<p>I am a motivated and ambitious Full Stack Developer who enjoys solving complex problems and helping my team to succeed. I am naturally inquisitive and methodical in my thinking, always aiming to break down problems into small achievable actions. I also hold a BEng(Hons) in Chemical Engineering from the University of Birmingham. I am looking for opportunities where I can continue to learn, whilst solving real-world problems with a team of ambitious people.</p>
 
 
 ## Projects
