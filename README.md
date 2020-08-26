@@ -99,7 +99,7 @@
 
 ## Experience
 
-**[MOO](www.moo.com), Lead Technical Recruiter**
+**[MOO](https://www.moo.com/uk/), Lead Technical Recruiter**
 _(July 2017 - Aug 2020)_
 
 Responsibilities :
@@ -108,7 +108,7 @@ Responsibilities :
 - Collaborated with hiring managers and developed a data-driven recruitment process
 - Managed MOO’s relationships with external suppliers such as recruitment agencies, meetup events and careers fairs
 
-**[BUNTU](www.lovebuntu.com), Founder**
+**[BUNTU](https://www.lovebuntu.com/), Founder**
 _(2016 - 2020)_
 
 _BUNTU is an e-commerce brand which sells premium reusable water bottles._
