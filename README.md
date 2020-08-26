@@ -109,7 +109,7 @@ Responsibilities :
 - Managed MOO’s relationships with external suppliers such as recruitment agencies, meetup events and careers fairs
 
 **[BUNTU](www.lovebuntu.com), Founder**
-_(2017 - 2020)_
+_(2016 - 2020)_
 
 _BUNTU is an e-commerce brand which sells premium reusable water bottles._
 
