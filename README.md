@@ -24,7 +24,7 @@
 
 | Project/GitHub     | Details                                                                     | Tech                           | Additional Links |
 | ------------------ | --------------------------------------------------------------------------- | ------------------------------ | ---------------- |
-| **Nah'Amazon**     | Group project. A buyers and sellers marketplace                             | MongoDB, Express, React, Node, | [Github](https://github.com/ooduola/final_project)|
+| **Nah'Amazon**     | Group project. A buyers and sellers marketplace                             | MongoDB, Express, React, Node, Jest | [Github](https://github.com/ooduola/final_project)|
 | **Bank Tech Test** | A command line program emulating a bank account, showcasing test driven development. | Ruby, RSpec           | [Github](https://github.com/ooduola/bank_tech_test)|
 
 ## Technical Knowledge
