@@ -123,12 +123,12 @@ Key achievements:
 - Ongoing development and management of retail partnerships across the UK
 - Building and maintaining relationships with media contacts and key influencers within the wellness ecosystem
 
-**Equal Experts, People Scout**
+**[Equal Experts](https://www.equalexperts.com/), People Scout**
 _(October 2016 - February 2017)_
 
 - Responsible for recruiting Scala and Java Developers for a high profile public sector client
 
-**Progressive Global Energy, Senior Recruitment Consultant**
+**[Progressive Global Energy](https://www.progressiverecruitment.com/en-gb), Senior Recruitment Consultant**
 _(June 2013 - June 2016)_
 
 - Responsible for international business development and recruitment within the Oil & Gas sector
