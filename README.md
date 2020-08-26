@@ -100,7 +100,7 @@
 ## Experience
 
 **[MOO](www.moo.com), Lead Technical Recruiter**
-_(July 2017 - May 2020)_
+_(July 2017 - Aug 2020)_
 
 Responsibilities :
 
