@@ -142,7 +142,7 @@ _(June 2013 - June 2016)_
 - Running an e-commerce business, you are constantly faced with different challenges ranging from importing products from China to fixing bugs on your website. During this time, I greatly improved my problem-solving mindset and learnt to break down obstacles into small achievable actions. I find this approach to problem solving works best and I have seen the benefits to this approach in software development.
 
 #### Communication
-- Communication is one of the key skills needed for working in Recruitment. Whether speaking to candidates or meeting with hiring managers, being able to effectively communicate is a large part of the role. This experience has allowed to effectively pair program with my peers and work on group projects.
+- Communication is one of the key skills needed for working in Recruitment. Whether speaking to candidates or meeting with hiring managers, being able to effectively communicate is a large part of the role. This experience has allowed to effectively pair program with my peers and working collectively to solve problems in a group project.
 
 <h2>Education</h2>
 
